@@ -5,7 +5,7 @@ package.domain = com.mygame
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttc
 version = 1.0
-requirements = python3==3.11.9,kivy
+requirements = python3==3.11.9,hostpython3==3.11.9,kivy
 p4a.python_version = 3.11.9
 orientation = portrait
 fullscreen = 0
